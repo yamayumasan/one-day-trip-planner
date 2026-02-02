@@ -1,0 +1,8 @@
+name = "one-day-trip-planner"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = ".output/public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "trip-planner-db"
+database_id = ""
